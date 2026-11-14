@@ -20,7 +20,7 @@ Python · OpenCV · Django · Next.js
 
 I like building software that **works with the real world**: cameras that understand what they see, and apps that real shops could actually use. I focus on projects that run end to end, with clean structure, tests, documentation and one-command setup.
 
-- 🔭 Building: computer vision tools, full-stack web apps and a face-recognition photo sorter (OpenCV + pandas)
+- 🔭 Building: computer vision tools, full-stack web apps and a face-recognition photo sorter (OpenCV)
 - 🌱 Currently learning: pandas, machine-learning classifiers and LangChain
 - 🎯 Looking for: an **internship** in AI / ML, computer vision or full-stack development
 
@@ -29,13 +29,12 @@ I like building software that **works with the real world**: cameras that unders
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,nextjs,react,ts,opencv,numpy,pandas,sqlite,docker,githubactions,git,github,linux&perline=14" alt="Python, Django, Next.js, React, TypeScript, OpenCV, NumPy, pandas, SQLite, Docker, GitHub Actions, Git, GitHub, Linux" />
+  <img src="https://skillicons.dev/icons?i=py,django,nextjs,react,ts,opencv,numpy,sqlite,docker,githubactions,git,github,linux&perline=13" alt="Python, Django, Next.js, React, TypeScript, OpenCV, NumPy, SQLite, Docker, GitHub Actions, Git, GitHub, Linux" />
 </p>
 
 | Area | What I use |
 |---|---|
 | **Computer vision** | OpenCV, MediaPipe (hands, face mesh), YOLOv4-tiny object detection |
-| **Data** | pandas (DataFrames, CSV logs), NumPy |
 | **Backend** | Python, Django, Django REST Framework, JWT auth, SQLite |
 | **Frontend** | Next.js (App Router), React, TypeScript |
 | **Desktop and games** | Tkinter, CustomTkinter, Pygame |
@@ -84,11 +83,11 @@ and replace YOUR_REPO_LINK with its URL.
 Sorts a folder of photos into one folder per person. One pipeline with swappable classifiers, so the same code can later sort by object, scene or date.
 
 - **Face recognition** with a Haar cascade detector and an LBPH recognizer; new people are trained automatically from their folder
-- **pandas** DataFrame log of every decision, plus an evaluation tool with accuracy per person and a threshold sweep
+- **A log of every decision** (CSV), plus an evaluation tool with accuracy per person and a threshold sweep
 - **Honest tooling:** a dataset checker that catches unusable photos and train/val leaks, and an explain tool that shows why one photo got its label
 - **18 pytest tests** and a GitHub Actions workflow
 
-`Python` `OpenCV` `pandas` `pytest`
+`Python` `OpenCV` `pytest`
 
 ---
 -->
