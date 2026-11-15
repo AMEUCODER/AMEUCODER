@@ -35,10 +35,10 @@ I like building software that **works with the real world**: cameras that unders
 | Area | What I use |
 |---|---|
 | **Computer vision** | OpenCV, MediaPipe (hands, face mesh), YOLOv4-tiny object detection |
-| **Backend** | Python, Django, Django REST Framework, JWT auth, SQLite |
+| **Backend** | Python, Django, Django REST Framework,SQLite |
 | **Frontend** | Next.js (App Router), React, TypeScript |
 | **Desktop and games** | Tkinter, CustomTkinter, Pygame |
-| **Tooling** | Git and GitHub, Docker, GitHub Actions CI, pytest |
+| **Tooling** | Git and GitHub, Docker |
 
 ---
 
