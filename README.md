@@ -145,8 +145,9 @@ A collection of **11 computer vision projects** plus a plug-in image toolkit, or
 | Repo | What it is |
 |---|---|
 | [**C-programming**](https://github.com/AMEUCODER/C-programming) | University lab exercises (TP1 to TP12) and mini projects in C |
+| [**Embedded-Systems**](https://github.com/AMEUCODER/Embedded-Systems) | Arduino lab sessions and an ESP32 Bluetooth rover (in progress) |
 | [**Data_Flow**](https://github.com/AMEUCODER/Data_Flow) | pandas practice and a Titanic data-analysis notebook |
-| [**Flutter-to-do-app**](https://github.com/AMEUCODER/Flutter-to-do-app) | My first Flutter app |
+| [**Flutter-to-do-app**](https://github.com/AMEUCODER/Flutter-to-do-app) | My first Flutter app, a to-do list (in progress) |
 
 ---
 
